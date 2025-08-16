@@ -1,0 +1,5 @@
+{
+  "name": "FitHer Coach",
+  "description": "A web-based fitness coach application designed for women, featuring a library of exercises, customizable workout plans, progress tracking, and an AI-powered plan generator.",
+  "requestFramePermissions": []
+}
